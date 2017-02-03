@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 862.9 912" enable-background="new 0 0 862.9 912" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="423.795" y1="197.6308" x2="423.795" y2="245.9581">
+	<stop  offset="0" style="stop-color:#54A7F5"/>
+	<stop  offset="1" style="stop-color:#156BC1"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M480.5,246H367.1c-2.8,0-5-2.2-5-5v-38.3c0-2.8,2.2-5,5-5h113.4c2.8,0,5,2.2,5,5V241
+	C485.5,243.7,483.2,246,480.5,246z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="423.795" y1="274.8474" x2="423.795" y2="323.1747">
+	<stop  offset="0" style="stop-color:#F08D2D"/>
+	<stop  offset="1" style="stop-color:#DD6C24"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M480.5,323.2H367.1c-2.8,0-5-2.2-5-5v-38.3c0-2.8,2.2-5,5-5h113.4c2.8,0,5,2.2,5,5v38.3
+	C485.5,320.9,483.2,323.2,480.5,323.2z"/>
+<text transform="matrix(1 0 0 1 400.4011 225.8359)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="17">Button</text>
+<text transform="matrix(1 0 0 1 115.6625 268.8474)" font-family="'HelveticaNeue-Light'" font-size="17">Skin is created or has changed</text>
+<text transform="matrix(1 0 0 1 376.561 303.9073)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="17">SkinResolver</text>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="423.7949" y1="496.094" x2="423.7949" y2="544.4213">
+	<stop  offset="0" style="stop-color:#3CBEEE"/>
+	<stop  offset="1" style="stop-color:#0093D4"/>
+</linearGradient>
+<path fill="url(#SVGID_3_)" d="M480.5,544.4H367.1c-2.8,0-5-2.2-5-5v-38.3c0-2.8,2.2-5,5-5h113.4c2.8,0,5,2.2,5,5v38.3
+	C485.5,542.2,483.2,544.4,480.5,544.4z"/>
+<text transform="matrix(1 0 0 1 373.8238 526.8633)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="17">StyleManager</text>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="423.7949" y1="570.9474" x2="423.7949" y2="619.2748">
+	<stop  offset="0" style="stop-color:#D15295"/>
+	<stop  offset="1" style="stop-color:#AD2D91"/>
+</linearGradient>
+<path fill="url(#SVGID_4_)" d="M480.5,619.3H367.1c-2.8,0-5-2.2-5-5v-38.3c0-2.8,2.2-5,5-5h113.4c2.8,0,5,2.2,5,5v38.3
+	C485.5,617,483.2,619.3,480.5,619.3z"/>
+<text transform="matrix(1 0 0 1 406.0049 601.7167)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="17">Style</text>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="423.7949" y1="424.188" x2="423.7949" y2="472.5154">
+	<stop  offset="0" style="stop-color:#6DBB48"/>
+	<stop  offset="1" style="stop-color:#168A32"/>
+</linearGradient>
+<path fill="url(#SVGID_5_)" d="M480.5,472.5H367.1c-2.8,0-5-2.2-5-5v-38.3c0-2.8,2.2-5,5-5h113.4c2.8,0,5,2.2,5,5v38.3
+	C485.5,470.3,483.2,472.5,480.5,472.5z"/>
+<text transform="matrix(1 0 0 1 375.9234 454.9573)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="17">StyleSelector</text>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="424.9572" y1="651.2516" x2="424.9572" y2="699.579">
+	<stop  offset="0" style="stop-color:#FF6315"/>
+	<stop  offset="1" style="stop-color:#FF2A2A"/>
+</linearGradient>
+<path fill="url(#SVGID_6_)" d="M481.6,699.6H368.3c-2.8,0-5-2.2-5-5v-38.3c0-2.8,2.2-5,5-5h113.4c2.8,0,5,2.2,5,5v38.3
+	C486.6,697.3,484.4,699.6,481.6,699.6z"/>
+<text transform="matrix(1 0 0 1 409.2156 682.0209)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="17">Skin</text>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="423.7949" y1="349.4419" x2="423.7949" y2="397.7692">
+	<stop  offset="0" style="stop-color:#979797"/>
+	<stop  offset="1" style="stop-color:#5E5E5E"/>
+</linearGradient>
+<path fill="url(#SVGID_7_)" d="M480.5,397.8H367.1c-2.8,0-5-2.2-5-5v-38.3c0-2.8,2.2-5,5-5h113.4c2.8,0,5,2.2,5,5v38.3
+	C485.5,395.5,483.2,397.8,480.5,397.8z"/>
+<text transform="matrix(1 0 0 1 374.5128 380.2112)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="17">StyleResolver</text>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M345.9,221.2c0,0-32.7,0-65.3,0c-16.5,0-33,0-45.4,0h-0.6h-0.3h-0.2c0,0,0,0.1,0,0.1c0,0.4,0,0.8,0,1.2
+				c0,0.8,0,1.6,0,2.4c0,1.5,0,2.9,0,4.2c0,2.5,0,4.7,0,6.4c0,0.5,0,0.7,0,0.7h-4.6l4.1,7l1.2,2.1l1.2-2.1l4.1-7h-4.6
+				c0,0,0-0.3,0-0.7c0-1.8,0-4,0-6.4c0-1.2,0-2.4,0-3.7c0-0.6,0-1.2,0-1.9c0-0.3,0-0.6,0-1c0,0,0-0.1,0-0.1h0.1h0.2h0.5
+				c12.1,0,28.2,0,44.4,0c32.7,0,65.3,0,65.3,0V221.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M234.1,285.3v8.4v4.4v2.4v1.2v0.3v0.1c0,0.1,0.1,0,0.1,0h0.6h17.4h73.1v4.6l9.1-5.3l-9.1-5.3v4.6h-73.1
+				h-16.3h-0.5c-0.1,0-0.1-0.1-0.1-0.1v-0.2v-0.9v-1.9v-4v-8.4H234.1z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 146.6703 409.9645)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="17">Create a Selector that </tspan><tspan x="-9.9" y="20.4" font-family="'HelveticaNeue-Light'" font-size="17">matches the Button Dom</tspan></text>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M345.9,371.3c0,0-32.7,0-65.3,0c-16.5,0-33,0-45.4,0h-0.6h-0.3h-0.2c0,0,0,0.1,0,0.1c0,0.4,0,0.8,0,1.2
+				c0,0.8,0,1.6,0,2.4c0,1.5,0,2.9,0,4.2c0,2.5,0,4.7,0,6.4c0,0.5,0,0.7,0,0.7h-4.6l4.1,7l1.2,2.1l1.2-2.1l4.1-7h-4.6
+				c0,0,0-0.3,0-0.7c0-1.8,0-4,0-6.4c0-1.2,0-2.4,0-3.7c0-0.6,0-1.2,0-1.9c0-0.3,0-0.6,0-1c0,0,0-0.1,0-0.1h0.1h0.2h0.5
+				c12.1,0,28.2,0,44.4,0c32.7,0,65.3,0,65.3,0V371.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M234.1,435.4v8.4v4.4v2.4v1.2v0.3v0.1c0,0.1,0.1,0,0.1,0h0.6h17.4h73.1v4.6l9.1-5.3l-9.1-5.3v4.6h-73.1
+				h-16.3h-0.5c-0.1,0-0.1-0.1-0.1-0.1v-0.2v-0.9v-1.9v-4v-8.4H234.1z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 129.7899 554.2003)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="17">Merge the matching styles</tspan><tspan x="-16.3" y="20.4" font-family="'HelveticaNeue-Light'" font-size="17">According to CSS priority rules</tspan></text>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M345.9,515.5c0,0-32.7,0-65.3,0c-16.5,0-33,0-45.4,0h-0.6h-0.3h-0.2c0,0,0,0.1,0,0.1c0,0.4,0,0.8,0,1.2
+				c0,0.8,0,1.6,0,2.4c0,1.5,0,2.9,0,4.2c0,2.5,0,4.7,0,6.4c0,0.5,0,0.7,0,0.7h-4.6l4.1,7l1.2,2.1l1.2-2.1l4.1-7h-4.6
+				c0,0,0-0.3,0-0.7c0-1.8,0-4,0-6.4c0-1.2,0-2.4,0-3.7c0-0.6,0-1.2,0-1.9c0-0.3,0-0.6,0-1c0,0,0-0.1,0-0.1h0.1h0.2h0.5
+				c12.1,0,28.2,0,44.4,0c32.7,0,65.3,0,65.3,0V515.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M234.1,579.7v8.4v4.4v2.4v1.2v0.3v0.1c0,0.1,0.1,0,0.1,0h0.6h17.4h73.1v4.6l9.1-5.3l-9.1-5.3v4.6h-73.1
+				h-16.3h-0.5c-0.1,0-0.1-0.1-0.1-0.1v-0.2v-0.9v-1.9v-4v-8.4H234.1z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M498.6,297.9c0,0,29.5,0,59.1,0c7.4,0,14.8,0,21.7,0c3.5,0,6.8,0,10,0c1.5,0,3,0,4.5,0c0.7,0,1.3,0,1.9,0
+				c0.3,0,0.6,0,0.9,0h0.5c0.1,0,0.1,0.1,0.1,0.2v0.2c0,8.1,0,13.5,0,13.5h-4.6l3.9,6.8l1.3,2.3l1.3-2.3l3.9-6.8h-4.6
+				c0,0,0-5.9,0-14.7v-0.3c0-0.1,0-0.2-0.1-0.2h-0.6c-0.4,0-0.8,0-1.2,0c-0.8,0-1.6,0-2.5,0c-1.5,0-3.1,0-4.8,0c-3.2,0-6.5,0-10,0
+				c-6.9,0-14.3,0-21.7,0c-29.5,0-59.1,0-59.1,0V297.9z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M597.2,363.8v8.4v4v1.9v0.9v0.2c0,0.1,0,0.2-0.1,0.1h-0.5h-16.3h-73.1v-4.6l-9.1,5.3l9.1,5.3v-4.6h73.1
+				h17.4h0.6c0,0,0.1,0,0.1,0v-0.1v-0.3V379v-2.4v-4.4v-8.4H597.2z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 488.7386 338.3517)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="17">Querry for a style that matches </tspan><tspan x="54.9" y="20.4" font-family="'HelveticaNeue-Light'" font-size="17">the Button DOM</tspan></text>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M499.6,444.2c0,0,29.3,0,58.5,0c7.3,0,14.6,0,21.5,0c3.4,0,6.7,0,9.9,0c1.5,0,3,0,4.4,0
+				c0.7,0,1.3,0,1.9,0c0.3,0,0.6,0,0.9,0c0.1,0,0.3,0,0.4,0v0.5c0,8,0,13.4,0,13.4h-4.6l3.9,6.8l1.3,2.3l1.3-2.3l3.9-6.8h-4.6
+				c0,0,0-5.8,0-14.5v-0.6c0-0.1-0.1,0-0.1,0h-0.1h-0.3c-0.4,0-0.8,0-1.2,0c-0.8,0-1.6,0-2.4,0c-1.5,0-3.1,0-4.8,0
+				c-3.1,0-6.5,0-9.9,0c-6.9,0-14.2,0-21.5,0c-29.3,0-58.5,0-58.5,0V444.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M597.2,507v8.4v4v1.9v0.9v0.2c0,0.1,0,0.2-0.1,0.1h-0.5h-16.3h-73.1V518l-9.1,5.3l9.1,5.3v-4.6h73.1h17.4
+				h0.6c0,0,0.1,0,0.1,0v-0.1v-0.3v-1.2v-2.4v-4.4V507H597.2z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 502.5424 481.5774)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="17">Ask StyleManager for styles</tspan><tspan x="15.3" y="20.4" font-family="'HelveticaNeue-Light'" font-size="17">that match the Selector</tspan></text>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M499.6,596.5c0,0,29.3,0,58.5,0c7.3,0,14.6,0,21.5,0c3.4,0,6.7,0,9.9,0c1.5,0,3,0,4.4,0
+				c0.7,0,1.3,0,1.9,0c0.3,0,0.6,0,0.9,0c0.1,0,0.3,0,0.4,0v0.5c0,8,0,13.4,0,13.4h-4.6l3.9,6.8l1.3,2.3l1.3-2.3l3.9-6.8h-4.6
+				c0,0,0-5.8,0-14.5v-0.6c0-0.1-0.1,0-0.1,0h-0.1h-0.3c-0.4,0-0.8,0-1.2,0c-0.8,0-1.6,0-2.4,0c-1.5,0-3.1,0-4.8,0
+				c-3.1,0-6.5,0-9.9,0c-6.9,0-14.2,0-21.5,0c-29.3,0-58.5,0-58.5,0V596.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<polygon fill="#3F3B3C" points="423.2,718 423.2,757.5 418.5,757.5 423.8,766.6 429.1,757.5 424.4,757.5 424.4,718 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M597.2,659.4v8.4v4v1.9v0.9v0.2c0,0.1,0,0.2-0.1,0.1h-0.5h-16.3h-73.1v-4.6l-9.1,5.3l9.1,5.3v-4.6h73.1
+				h17.4h0.6c0,0,0.1,0,0.1,0V676v-0.3v-1.2v-2.4v-4.4v-8.4H597.2z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 514.8759 633.9198)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="17">Attach the style to either</tspan><tspan x="0.5" y="20.4" font-family="'HelveticaNeue-Light'" font-size="17">GraphicSkin or TextSkin</tspan></text>
+<text transform="matrix(1 0 0 1 291.5821 795.236)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="17">Skin now has a new Style attached</tspan><tspan x="-65.9" y="20.4" font-family="'HelveticaNeue-Light'" font-size="17">Which has information about how the skin should be </tspan><tspan x="-43.3" y="40.8" font-family="'HelveticaNeue-Light'" font-size="17">created or updated in the case of state change</tspan></text>
+<g>
+	<g>
+		<g>
+			<polygon fill="#3F3B3C" points="424.8,128.3 424.8,172.9 420.2,172.9 425.5,182 430.7,172.9 426.1,172.9 426.1,128.3 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 247.9405 88.3044)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="17">This diagram explains how an Element such as </tspan><tspan x="53.8" y="20.4" font-family="'HelveticaNeue-Light'" font-size="17">a Button generate its final design</tspan></text>
+</svg>
