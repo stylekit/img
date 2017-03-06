@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1126 1109.2" enable-background="new 0 0 1126 1109.2" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<polygon fill="#FEF1CE" points="635.4,562.3 635.4,276.9 1054.1,276.9 1065.9,286.6 1065.9,562.3 			"/>
+			<path d="M1053.9,277.4l11.5,9.4v274.9H635.9V277.4H1053.9 M1054.3,276.4H634.9v286.4h431.6V286.4L1054.3,276.4L1054.3,276.4z"/>
+		</g>
+		<g>
+			<polygon fill="#FEF1CE" points="1054.8,288.1 1054.8,277.6 1065.2,288.1 			"/>
+			<path d="M1055.3,278.9l8.8,8.8h-8.8V278.9 M1054.3,276.4v12.2h12.2L1054.3,276.4L1054.3,276.4z"/>
+		</g>
+	</g>
+	<rect x="640.7" y="283.7" fill="none" width="413.6" height="318.3"/>
+	<text transform="matrix(1 0 0 1 640.6779 292.3232)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">1. User pressed </tspan><tspan x="88" y="0" font-family="'Helvetica'" font-size="12">button</tspan><tspan x="0" y="14.4" font-family="'Helvetica'" font-size="12">2. ButtonEvent is sent to onEvent with origin set to self </tspan><tspan x="0" y="28.8" font-family="'Helvetica'" font-size="12">3. onEvent checks if self.superView is of type IEventSender. </tspan><tspan x="0" y="43.2" font-family="'Helvetica'" font-size="12">4. superView is of Type IEventSender, Set event.immediate to self aka TitleBar</tspan><tspan x="0" y="57.6" font-family="'Helvetica'" font-size="12">5. TitleBar.onEvent is called with Event from Button </tspan><tspan x="0" y="72" font-family="'Helvetica'" font-size="12">6. TitleBar checks if self.superView is of type IEventSender</tspan><tspan x="0" y="86.4" font-family="'Helvetica'" font-size="12">7. superView is of Type IEventSender. Set event.immediate to self aka TitleBar</tspan><tspan x="0" y="100.8" font-family="'Helvetica'" font-size="12">8. This continues all the way up to App Where you can override onEvent and ask </tspan><tspan x="0" y="115.2" font-family="'Helvetica'" font-size="12">if(event == ButtonEvent.onPress &amp;&amp; (event.origin as Button).id == “closeBt</tspan><tspan x="378.5" y="115.2" font-family="'Helvetica'" font-size="12">-</tspan><tspan x="0" y="129.6" font-family="'Helvetica'" font-size="12">n”){print(”close win”)}</tspan><tspan x="0" y="158.4" font-family="'Helvetica'" font-size="12">- At any point you can freely listen in for all events that propegate up the super</tspan><tspan x="395.2" y="158.4" font-family="'Helvetica'" font-size="12">-</tspan><tspan x="0" y="172.8" font-family="'Helvetica'" font-size="12">View hirarchy. </tspan><tspan x="0" y="187.2" font-family="'Helvetica'" font-size="12">- You can </tspan><tspan x="52.3" y="187.2" font-family="'Helvetica-Bold'" font-size="12">block events</tspan><tspan x="122.1" y="187.2" font-family="'Helvetica'" font-size="12"> that doesnt need to propegate etc</tspan><tspan x="0" y="201.6" font-family="'Helvetica'" font-size="12">- There is </tspan><tspan x="51.4" y="201.6" font-family="'Helvetica-Bold'" font-size="12">no coupling</tspan><tspan x="116.7" y="201.6" font-family="'Helvetica'" font-size="12"> between the components. As we just </tspan><tspan x="310.2" y="201.6" font-family="'Helvetica-Bold'" font-size="12">reuse the coupel</tspan><tspan x="401.7" y="201.6" font-family="'Helvetica-Bold'" font-size="12">-</tspan><tspan x="0" y="216" font-family="'Helvetica-Bold'" font-size="12">ing </tspan><tspan x="20.4" y="216" font-family="'Helvetica'" font-size="12">that already exists in the View hirarchy</tspan><tspan x="0" y="230.4" font-family="'Helvetica'" font-size="12">- You can also </tspan><tspan x="76.4" y="230.4" font-family="'Helvetica-Bold'" font-size="12">hi-jack</tspan><tspan x="112.8" y="230.4" font-family="'Helvetica'" font-size="12"> event streams for non-view classes. Then you set the </tspan><tspan x="0" y="244.8" font-family="'Helvetica'" font-size="12">coupeling your self. Its based on weak callback closures .so no reference block </tspan><tspan x="0" y="259.2" font-family="'Helvetica'" font-size="12">will occure. </tspan></text>
+</g>
+<g>
+	<g>
+		<g>
+			<polygon fill="#FEF1CE" points="58.1,574.3 58.1,257.5 235.3,257.5 247.2,273.4 247.2,574.3 			"/>
+			<path d="M235.1,258l11.7,15.6v300.2H58.6V258H235.1 M235.6,257H57.6v317.9h190.1V273.3L235.6,257L235.6,257z"/>
+		</g>
+		<g>
+			<polygon fill="#FEF1CE" points="236.1,276.4 236.1,258.8 246.8,276.4 			"/>
+			<path d="M236.6,260.5l9.4,15.4h-9.4V260.5 M235.6,257v19.9h12.2L235.6,257L235.6,257z"/>
+		</g>
+	</g>
+	<rect x="69.8" y="264.2" fill="none" width="175.7" height="303"/>
+	<text transform="matrix(1 0 0 1 69.8424 272.8765)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">1. App sets </tspan><tspan x="63.4" y="0" font-family="'Helvetica-Bold'" font-size="12">externalState </tspan><tspan x="142.1" y="0" font-family="'Helvetica'" font-size="12">to  </tspan><tspan x="0" y="14.4" font-family="'Helvetica'" font-size="12">inActive and all its subViews that </tspan><tspan x="0" y="28.8" font-family="'Helvetica'" font-size="12">implements IStateChangable</tspan><tspan x="0" y="57.6" font-family="'Helvetica'" font-size="12">2. state has change in Win. Set </tspan><tspan x="0" y="72" font-family="'Helvetica'" font-size="12">externalState on all subViews </tspan><tspan x="0" y="86.4" font-family="'Helvetica'" font-size="12">that implement IStateChange</tspan><tspan x="155.4" y="86.4" font-family="'Helvetica'" font-size="12">-</tspan><tspan x="0" y="100.8" font-family="'Helvetica'" font-size="12">able to the new externalState</tspan><tspan x="0" y="129.6" font-family="'Helvetica'" font-size="12">3. All the way down to Button. </tspan><tspan x="0" y="144" font-family="'Helvetica'" font-size="12">Which has its internalState set to </tspan><tspan x="0" y="158.4" font-family="'Helvetica'" font-size="12">“over” </tspan><tspan x="0" y="187.2" font-family="'Helvetica'" font-size="12">4. The button externalState + </tspan><tspan x="0" y="201.6" font-family="'Helvetica'" font-size="12">internalState is now combined </tspan><tspan x="0" y="216" font-family="'Helvetica'" font-size="12">and is now inactiveOver</tspan><tspan x="0" y="244.8" font-family="'Helvetica'" font-size="12">5. Since externalState calls state </tspan><tspan x="0" y="259.2" font-family="'Helvetica'" font-size="12">which calls render. The button </tspan><tspan x="0" y="273.6" font-family="'Helvetica'" font-size="12">now is greyed out due to its </tspan><tspan x="0" y="288" font-family="'Helvetica'" font-size="12">inactive state.  </tspan></text>
+</g>
+<g>
+	<g>
+		<rect x="361.3" y="201.7" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="37.1"/>
+		<rect x="361.3" y="238.4" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="26.8"/>
+		<rect x="361.3" y="201.7" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="16.6"/>
+	</g>
+	<rect x="362.1" y="205.2" fill="none" width="179.8" height="11.2"/>
+	<text transform="matrix(1 0 0 1 400.0394 213.8407)" font-family="'Helvetica-Bold'" font-size="12">App:IEventSender</text>
+	<rect x="364.2" y="222.2" fill="none" width="153.5" height="23.2"/>
+	<text transform="matrix(1 0 0 1 364.2171 230.8175)" font-family="'Helvetica'" font-size="12">- init()</text>
+	<rect x="364.2" y="245.4" fill="none" width="177.7" height="14.3"/>
+	<text transform="matrix(1 0 0 1 364.2171 253.979)" font-family="'Helvetica'" font-size="12">+ win:Win</text>
+</g>
+<g>
+	<g>
+		<rect x="361.3" y="294" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="36.1"/>
+		<rect x="361.3" y="329.8" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="26.8"/>
+		<rect x="361.3" y="294" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="16.6"/>
+	</g>
+	<rect x="362.1" y="297.6" fill="none" width="179.8" height="11.2"/>
+	<text transform="matrix(1 0 0 1 416.0618 306.1976)" font-family="'Helvetica-Bold'" font-size="12">Win:Window</text>
+	<rect x="364.2" y="314.5" fill="none" width="153.5" height="22.2"/>
+	<text transform="matrix(1 0 0 1 364.2171 323.1748)" font-family="'Helvetica'" font-size="12">- init()</text>
+	<rect x="364.2" y="336.7" fill="none" width="177.7" height="14.3"/>
+	<text transform="matrix(1 0 0 1 364.2171 345.3359)" font-family="'Helvetica'" font-size="12">+ view:View</text>
+</g>
+<g>
+	<g>
+		<rect x="361.3" y="379.2" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="37.1"/>
+		<rect x="361.3" y="415.9" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="28.8"/>
+		<rect x="361.3" y="379.2" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="16.6"/>
+	</g>
+	<rect x="362.1" y="382.7" fill="none" width="179.8" height="11.2"/>
+	<text transform="matrix(1 0 0 1 409.0364 391.3649)" font-family="'Helvetica-Bold'" font-size="12">MainView:View</text>
+	<rect x="364.2" y="399.7" fill="none" width="153.5" height="23.2"/>
+	<text transform="matrix(1 0 0 1 364.2171 408.3421)" font-family="'Helvetica'" font-size="12">- init()</text>
+	<rect x="364.2" y="422.9" fill="none" width="177.7" height="16.3"/>
+	<text transform="matrix(1 0 0 1 364.2171 431.5032)" font-family="'Helvetica'" font-size="12">+ titleBar:TitleBar</text>
+</g>
+<g>
+	<g>
+		<rect x="361.3" y="473.3" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="35.1"/>
+		<rect x="361.3" y="508" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="30.8"/>
+		<rect x="361.3" y="473.3" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="16.6"/>
+	</g>
+	<rect x="362.1" y="476.8" fill="none" width="179.8" height="11.2"/>
+	<text transform="matrix(1 0 0 1 414.0374 485.4628)" font-family="'Helvetica-Bold'" font-size="12">TitleBar:View</text>
+	<rect x="364.2" y="493.8" fill="none" width="153.5" height="21.2"/>
+	<text transform="matrix(1 0 0 1 364.2171 502.4391)" font-family="'Helvetica'" font-size="12">- init()</text>
+	<rect x="364.2" y="515" fill="none" width="177.7" height="18.3"/>
+	<text transform="matrix(1 0 0 1 364.2171 523.6006)" font-family="'Helvetica'" font-size="12">+ button:Button</text>
+</g>
+<g>
+	<g>
+		<rect x="361.3" y="558.5" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="35.1"/>
+		<rect x="361.3" y="593.2" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="30.8"/>
+		<rect x="361.3" y="558.5" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="180.6" height="16.6"/>
+	</g>
+	<rect x="362.1" y="562" fill="none" width="179.8" height="11.2"/>
+	<text transform="matrix(1 0 0 1 417.0521 570.6688)" font-family="'Helvetica-Bold'" font-size="12">Button:View</text>
+	<rect x="364.2" y="579" fill="none" width="153.5" height="21.2"/>
+	<text transform="matrix(1 0 0 1 364.2171 587.6465)" font-family="'Helvetica'" font-size="12">- init()</text>
+	<rect x="364.2" y="600.2" fill="none" width="177.7" height="18.3"/>
+	<text transform="matrix(1 0 0 1 364.2171 608.8076)" font-family="'Helvetica'" font-size="12">+ button:Button</text>
+</g>
+<g>
+	<g>
+		<rect x="794.1" y="45.8" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="240.2" height="104.1"/>
+		<rect x="794.1" y="149.5" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="240.2" height="35.1"/>
+		<rect x="794.1" y="45.8" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="240.2" height="16.6"/>
+	</g>
+	<rect x="796.7" y="49.5" fill="none" width="238.5" height="12.7"/>
+	<text transform="matrix(1 0 0 1 811.5493 58.163)" font-family="'Helvetica-Bold'" font-size="12">View:IStateChangable, IEventSender</text>
+	<rect x="797" y="154" fill="none" width="153.5" height="30.7"/>
+	<text transform="matrix(1 0 0 1 797.0322 162.6056)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">- init()</tspan><tspan x="0" y="14.4" font-family="'Helvetica'" font-size="12">+ onEvent(event:Event)</tspan></text>
+	<rect x="797" y="71" fill="none" width="177.7" height="71.9"/>
+	<text transform="matrix(1 0 0 1 797.0322 79.6007)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">- _internalState:String</tspan><tspan x="0" y="14.4" font-family="'Helvetica'" font-size="12">- _externalState:String</tspan><tspan x="0" y="28.8" font-family="'Helvetica'" font-size="12">+ state:String:String</tspan><tspan x="0" y="43.2" font-family="'Helvetica'" font-size="12">+ externalState:String</tspan><tspan x="0" y="57.6" font-family="'Helvetica'" font-size="12">+ event:Event</tspan></text>
+</g>
+<g>
+	<g>
+		<rect x="535.4" y="46.5" fill="#CCFFFE" stroke="#231F20" stroke-miterlimit="10" width="212.6" height="79.5"/>
+		<rect x="535.4" y="46.5" fill="#CCFFFE" stroke="#231F20" stroke-miterlimit="10" width="212.6" height="16.6"/>
+	</g>
+	<rect x="536.2" y="50" fill="none" width="211.8" height="11.2"/>
+	<text transform="matrix(1 0 0 1 595.0875 58.628)" font-family="'Helvetica-Bold'" font-size="12">IStateChangable</text>
+	<rect x="538.3" y="66" fill="none" width="209.7" height="71.9"/>
+	<text transform="matrix(1 0 0 1 538.2648 74.6601)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">- _internalState:String</tspan><tspan x="0" y="14.4" font-family="'Helvetica'" font-size="12">- _externalState:String</tspan><tspan x="0" y="28.8" font-family="'Helvetica'" font-size="12">+ state:String:String</tspan><tspan x="0" y="43.2" font-family="'Helvetica'" font-size="12">+ externalState:String</tspan></text>
+</g>
+<g>
+	<g>
+		<rect x="48.8" y="50.9" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="213.5" height="36.1"/>
+		<rect x="48.8" y="86.6" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="213.5" height="55.8"/>
+		<rect x="48.8" y="50.9" fill="#D3FD6E" stroke="#231F20" stroke-miterlimit="10" width="213.5" height="16.6"/>
+	</g>
+	<rect x="49.6" y="54.4" fill="none" width="212.6" height="11.2"/>
+	<text transform="matrix(1 0 0 1 139.5554 63.0659)" font-family="'Helvetica-Bold'" font-size="12">Event</text>
+	<rect x="51.6" y="71.4" fill="none" width="210" height="22.2"/>
+	<text transform="matrix(1 0 0 1 51.6496 80.0431)" font-family="'Helvetica'" font-size="12">- init(type:String,origin:AnyObject)</text>
+	<rect x="51.6" y="93.6" fill="none" width="210.6" height="44.8"/>
+	<text transform="matrix(1 0 0 1 51.6496 102.2037)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="12">+ type:String</tspan><tspan x="0" y="14.4" font-family="'Helvetica'" font-size="12">+ origin:AnyObject</tspan><tspan x="0" y="28.8" font-family="'Helvetica'" font-size="12">+ immediate:AnyObject</tspan></text>
+</g>
+<g>
+	<g>
+		<rect x="283.1" y="49.5" fill="#CCFFFE" stroke="#231F20" stroke-miterlimit="10" width="213.5" height="36.1"/>
+		<rect x="283.1" y="85.2" fill="#CCFFFE" stroke="#231F20" stroke-miterlimit="10" width="213.5" height="24.8"/>
+		<rect x="283.1" y="49.5" fill="#CCFFFE" stroke="#231F20" stroke-miterlimit="10" width="213.5" height="16.6"/>
+	</g>
+	<rect x="283.9" y="53" fill="none" width="212.6" height="11.2"/>
+	<text transform="matrix(1 0 0 1 351.9069 61.6492)" font-family="'Helvetica-Bold'" font-size="12">IEventSender</text>
+	<rect x="286" y="70" fill="none" width="210" height="22.2"/>
+	<text transform="matrix(1 0 0 1 286.0089 78.6264)" font-family="'Helvetica'" font-size="12">+ event: Event</text>
+	<rect x="286" y="92.8" fill="none" width="210.6" height="44.8"/>
+	<text transform="matrix(1 0 0 1 286.0089 101.4677)" font-family="'Helvetica'" font-size="12">+ onEvent(event:Event)</text>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M560.1,592.6v0.6c0,0,13.5,0,27.1,0c3.4,0,6.8,0,10,0c1.6,0,3.2,0,4.6,0c0.8,0,1.5,0,2.2,0
+				c0.4,0,0.7,0,1.1,0c0.2,0,0.4,0,0.6,0h0.1h0c0,0,0,0,0,0v-0.3c0-4,0-25.7,0-25.7h2.1l-1.8-3.2l-0.6-1.1L605,564l-1.8,3.2h2.1
+				c0,0,0,21.5,0,25.2v0.2c0,0-0.1,0-0.2,0c-0.1,0-0.3,0-0.4,0c-0.3,0-0.6,0-0.9,0c-0.6,0-1.3,0-2,0c-1.5,0-3,0-4.6,0
+				c-3.2,0-6.6,0-10,0C573.7,592.6,560.1,592.6,560.1,592.6L560.1,592.6z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M605.9,552.5v-4v-20v-1.1v-0.6v-0.1v0h0h-0.3h-8.1h-33.9v-2.1l-4.2,2.5l4.2,2.5v-2.1h33.9h7.6h0.2
+				c0,0,0,0,0,0v0.1v0.4v0.9v19.9v3.9H605.9z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M560.1,495.5v0.6c0,0,13.5,0,27.1,0c3.4,0,6.8,0,10,0c1.6,0,3.2,0,4.6,0c0.8,0,1.5,0,2.2,0
+				c0.4,0,0.7,0,1.1,0c0.2,0,0.4,0,0.6,0h0.1h0c0,0,0,0,0,0v-0.3c0-4,0-25.7,0-25.7h2.1l-1.8-3.2l-0.6-1.1l-0.6,1.1l-1.8,3.2h2.1
+				c0,0,0,21.5,0,25.2v0.2c0,0-0.1,0-0.2,0c-0.1,0-0.3,0-0.4,0c-0.3,0-0.6,0-0.9,0c-0.6,0-1.3,0-2,0c-1.5,0-3,0-4.6,0
+				c-3.2,0-6.6,0-10,0C573.7,495.5,560.1,495.5,560.1,495.5L560.1,495.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M605.9,455.4v-4v-20v-1.1v-0.6v-0.1v0h0h-0.3h-8.1h-33.9v-2.1l-4.2,2.5l4.2,2.5v-2.1h33.9h7.6h0.2
+				c0,0,0,0,0,0v0.1v0.4v0.9v19.9v3.9H605.9z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M560.1,397.8v0.6c0,0,13.5,0,27.1,0c3.4,0,6.8,0,10,0c1.6,0,3.2,0,4.6,0c0.8,0,1.5,0,2.2,0
+				c0.4,0,0.7,0,1.1,0c0.2,0,0.4,0,0.6,0h0.1h0c0,0,0,0,0,0v-0.3c0-4,0-25.7,0-25.7h2.1l-1.8-3.2l-0.6-1.1l-0.6,1.1l-1.8,3.2h2.1
+				c0,0,0,21.5,0,25.2v0.2c0,0-0.1,0-0.2,0c-0.1,0-0.3,0-0.4,0c-0.3,0-0.6,0-0.9,0c-0.6,0-1.3,0-2,0c-1.5,0-3,0-4.6,0
+				c-3.2,0-6.6,0-10,0C573.7,397.8,560.1,397.8,560.1,397.8L560.1,397.8z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M605.9,357.8v-4v-20v-1.1v-0.6v-0.1v0h0h-0.3h-8.1h-33.9v-2.1l-4.2,2.5l4.2,2.5v-2.1h33.9h7.6h0.2
+				c0,0,0,0,0,0v0.1v0.4v0.9v19.9v3.9H605.9z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M560.1,311.5v0.6c0,0,13.5,0,27.1,0c3.4,0,6.8,0,10,0c1.6,0,3.2,0,4.6,0c0.8,0,1.5,0,2.2,0
+				c0.4,0,0.7,0,1.1,0c0.2,0,0.4,0,0.6,0h0.1h0c0,0,0,0,0,0v-0.3c0-4,0-25.7,0-25.7h2.1l-1.8-3.2l-0.6-1.1L605,283l-1.8,3.2h2.1
+				c0,0,0,21.5,0,25.2v0.2c0,0-0.1,0-0.2,0c-0.1,0-0.3,0-0.4,0c-0.3,0-0.6,0-0.9,0c-0.6,0-1.3,0-2,0c-1.5,0-3,0-4.6,0
+				c-3.2,0-6.6,0-10,0C573.7,311.5,560.1,311.5,560.1,311.5L560.1,311.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M605.9,271.5v-4v-20v-1.1v-0.6v-0.1v0h0h-0.3h-8.1h-33.9v-2.1l-4.2,2.5l4.2,2.5v-2.1h33.9h7.6h0.2
+				c0,0,0,0,0,0v0.1v0.4v0.9v19.9v3.9H605.9z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M338.5,244v-0.6c0,0-13.5,0-27.1,0c-3.4,0-6.8,0-10,0c-1.6,0-3.2,0-4.6,0c-0.8,0-1.5,0-2.2,0
+				c-0.4,0-0.7,0-1.1,0c-0.2,0-0.4,0-0.6,0h-0.1h0c0,0,0,0,0,0v0.3c0,4,0,25.7,0,25.7h-2.1l1.8,3.2l0.6,1.1l0.6-1.1l1.8-3.2h-2.1
+				c0,0,0-21.5,0-25.2V244c0,0,0.1,0,0.2,0c0.1,0,0.3,0,0.4,0c0.3,0,0.6,0,0.9,0c0.6,0,1.3,0,2,0c1.5,0,3,0,4.6,0c3.2,0,6.6,0,10,0
+				C324.9,244,338.5,244,338.5,244L338.5,244z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M292.7,284.1v4v20v1.1v0.6v0.1v0h0h0.3h8.1h33.9v2.1l4.2-2.5l-4.2-2.5v2.1h-33.9h-7.6h-0.2c0,0,0,0,0,0
+				v-0.1v-0.4v-0.9V288v-3.9H292.7z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M338.5,341.1v-0.6c0,0-13.5,0-27.1,0c-3.4,0-6.8,0-10,0c-1.6,0-3.2,0-4.6,0c-0.8,0-1.5,0-2.2,0
+				c-0.4,0-0.7,0-1.1,0c-0.2,0-0.4,0-0.6,0h-0.1h0c0,0,0,0,0,0v0.3c0,4,0,25.7,0,25.7h-2.1l1.8,3.2l0.6,1.1l0.6-1.1l1.8-3.2h-2.1
+				c0,0,0-21.5,0-25.2v-0.2c0,0,0.1,0,0.2,0c0.1,0,0.3,0,0.4,0c0.3,0,0.6,0,0.9,0c0.6,0,1.3,0,2,0c1.5,0,3,0,4.6,0c3.2,0,6.6,0,10,0
+				C324.9,341.1,338.5,341.1,338.5,341.1L338.5,341.1z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M292.7,381.2v4v20v1.1v0.6v0.1v0h0h0.3h8.1h33.9v2.1l4.2-2.5l-4.2-2.5v2.1h-33.9h-7.6h-0.2c0,0,0,0,0,0
+				v-0.1v-0.4v-0.9v-19.9v-3.9H292.7z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M338.5,438.8v-0.6c0,0-13.5,0-27.1,0c-3.4,0-6.8,0-10,0c-1.6,0-3.2,0-4.6,0c-0.8,0-1.5,0-2.2,0
+				c-0.4,0-0.7,0-1.1,0c-0.2,0-0.4,0-0.6,0h-0.1h0c0,0,0,0,0,0v0.3c0,4,0,25.7,0,25.7h-2.1l1.8,3.2l0.6,1.1l0.6-1.1l1.8-3.2h-2.1
+				c0,0,0-21.5,0-25.2v-0.2c0,0,0.1,0,0.2,0c0.1,0,0.3,0,0.4,0c0.3,0,0.6,0,0.9,0c0.6,0,1.3,0,2,0c1.5,0,3,0,4.6,0c3.2,0,6.6,0,10,0
+				C324.9,438.8,338.5,438.8,338.5,438.8L338.5,438.8z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M292.7,478.8v4v20v1.1v0.6v0.1v0h0h0.3h8.1h33.9v2.1l4.2-2.5l-4.2-2.5v2.1h-33.9h-7.6h-0.2c0,0,0,0,0,0
+				v-0.1v-0.4v-0.9v-19.9v-3.9H292.7z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M338.5,525.1v-0.6c0,0-13.5,0-27.1,0c-3.4,0-6.8,0-10,0c-1.6,0-3.2,0-4.6,0c-0.8,0-1.5,0-2.2,0
+				c-0.4,0-0.7,0-1.1,0c-0.2,0-0.4,0-0.6,0h-0.1h0c0,0,0,0,0,0v0.3c0,4,0,25.7,0,25.7h-2.1l1.8,3.2l0.6,1.1l0.6-1.1l1.8-3.2h-2.1
+				c0,0,0-21.5,0-25.2v-0.2c0,0,0.1,0,0.2,0c0.1,0,0.3,0,0.4,0c0.3,0,0.6,0,0.9,0c0.6,0,1.3,0,2,0c1.5,0,3,0,4.6,0c3.2,0,6.6,0,10,0
+				C324.9,525.1,338.5,525.1,338.5,525.1L338.5,525.1z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#3F3B3C" d="M292.7,565.1v4v20v1.1v0.6v0.1v0h0h0.3h8.1h33.9v2.1l4.2-2.5l-4.2-2.5v2.1h-33.9h-7.6h-0.2c0,0,0,0,0,0
+				v-0.1v-0.4v-0.9V569v-3.9H292.7z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<polygon fill="#FD9BE5" points="256.6,1069.7 256.6,665.6 637.7,665.6 649.6,675.3 649.6,1069.7 			"/>
+			<path d="M637.5,666.1l11.5,9.4v393.7h-392V666.1H637.5 M637.9,665.1H256.1v405.1h394V675.1L637.9,665.1L637.9,665.1z"/>
+		</g>
+		<g>
+			<polygon fill="#FD9BE5" points="638.4,676.8 638.4,666.3 648.9,676.8 			"/>
+			<path d="M638.9,667.5l8.8,8.8h-8.8V667.5 M637.9,665.1v12.2h12.2L637.9,665.1L637.9,665.1z"/>
+		</g>
+	</g>
+	<rect x="268.7" y="677.3" fill="none" width="352.6" height="380.9"/>
+	<text transform="matrix(1 0 0 1 268.7309 685.9113)"><tspan x="0" y="0" font-family="'Helvetica-Bold'" font-size="12">Problem:</tspan><tspan x="0" y="14.4" font-family="'Helvetica'" font-size="12">If App sets it self to inActive and then the user hovers a button. In </tspan><tspan x="0" y="28.8" font-family="'Helvetica'" font-size="12">macOS the button should be greyed out but also hint at hovering. </tspan><tspan x="0" y="43.2" font-family="'Helvetica'" font-size="12">Highlight Iconogrphy for instance. </tspan><tspan x="0" y="72" font-family="'Helvetica-Bold'" font-size="12">Solution:</tspan><tspan x="0" y="86.4" font-family="'Helvetica'" font-size="12">since the button is in the state: </tspan><tspan x="0" y="115.2" font-family="'Helvetica'" font-size="12">inactive + over</tspan><tspan x="0" y="144" font-family="'Helvetica'" font-size="12">If the button has 4 styles applied:</tspan><tspan x="0" y="158.4" font-family="'Helvetica'" font-size="12">Button{fill:</tspan><tspan x="53.4" y="158.4" fill="#003DFF" font-family="'Helvetica'" font-size="12">blue</tspan><tspan x="76.1" y="158.4" font-family="'Helvetica'" font-size="12">,line:</tspan><tspan x="101.4" y="158.4" fill="#00FF06" font-family="'Helvetica'" font-size="12">grey</tspan><tspan x="124.7" y="158.4" font-family="'Helvetica'" font-size="12">}</tspan><tspan x="0" y="172.8" font-family="'Helvetica'" font-size="12">Button:over{line:black}</tspan><tspan x="0" y="187.2" font-family="'Helvetica'" font-size="12">Button:inActive{fill:</tspan><tspan x="98.7" y="187.2" fill="#F9F9F9" font-family="'Helvetica'" font-size="12">white</tspan><tspan x="126.7" y="187.2" font-family="'Helvetica'" font-size="12">,line:</tspan><tspan x="152.1" y="187.2" fill="#7F7F7F" font-family="'Helvetica'" font-size="12">grey</tspan><tspan x="175.4" y="187.2" font-family="'Helvetica'" font-size="12">}</tspan><tspan x="0" y="216" font-family="'Helvetica'" font-size="12">Since the button is in “over and inActive” state these styles gets </tspan><tspan x="0" y="230.4" font-family="'Helvetica'" font-size="12">priority. And the style is: </tspan><tspan x="0" y="259.2" font-family="'Helvetica'" font-size="12">The final button style is for the state: “inactiveOver”</tspan><tspan x="270.8" y="259.2" font-family="'Helvetica'" font-size="12"> </tspan><tspan x="274.4" y="259.2" font-family="'Helvetica'" font-size="12"> </tspan><tspan x="0" y="273.6" font-family="'Helvetica'" font-size="12">fill:</tspan><tspan x="14.7" y="273.6" fill="#FFFFFF" font-family="'Helvetica'" font-size="12">white</tspan><tspan x="0" y="288" font-family="'Helvetica'" font-size="12">line:black</tspan><tspan x="0" y="316.8" font-family="'Helvetica'" font-size="12">hover out and the final button style is: </tspan><tspan x="0" y="331.2" font-family="'Helvetica'" font-size="12">fill:</tspan><tspan x="14.7" y="331.2" fill="#F9F9F9" font-family="'Helvetica'" font-size="12">white</tspan><tspan x="0" y="345.6" font-family="'Helvetica'" font-size="12">line:</tspan><tspan x="22" y="345.6" fill="#848484" font-family="'Helvetica'" font-size="12">grey</tspan></text>
+</g>
+</svg>
