@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 275 267.7" enable-background="new 0 0 275 267.7" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256.7562" y1="190.918" x2="196.4959" y2="251.1784">
+	<stop  offset="0" style="stop-color:#787878"/>
+	<stop  offset="1" style="stop-color:#848484"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M251.1,248.9h-47.3c-2.8,0-5-2.2-5-5v-47.3c0-2.8,2.2-5,5-5h47.3c2.8,0,5,2.2,5,5v47.3
+	C256.1,246.7,253.9,248.9,251.1,248.9z"/>
+<image overflow="visible" width="1428" height="1034" xlink:href="../../Desktop/Screen Shot 2017-02-06 at 21.48.10.png"  transform="matrix(0.3181 0 0 0.3181 521.8065 0)">
+</image>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="73.6323" y1="101.5252" x2="14.1462" y2="161.0112">
+	<stop  offset="0" style="stop-color:#8A3EE8"/>
+	<stop  offset="1" style="stop-color:#4096E9"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M68,158.8H21.4c-2.8,0-5-2.2-5-5v-46.6c0-2.8,2.2-5,5-5H68c2.8,0,5,2.2,5,5v46.6
+	C73,156.5,70.8,158.8,68,158.8z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="166.7392" y1="101.0109" x2="105.8506" y2="161.8995">
+	<stop  offset="0" style="stop-color:#E88E37"/>
+	<stop  offset="1" style="stop-color:#EDBC00"/>
+</linearGradient>
+<path fill="url(#SVGID_3_)" d="M161.1,159.6h-47.9c-2.8,0-5-2.2-5-5v-47.9c0-2.8,2.2-5,5-5h47.9c2.8,0,5,2.2,5,5v47.9
+	C166.1,157.3,163.8,159.6,161.1,159.6z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="256.7566" y1="101.6661" x2="196.4962" y2="161.9264">
+	<stop  offset="0" style="stop-color:#E74074"/>
+	<stop  offset="1" style="stop-color:#F2545E"/>
+</linearGradient>
+<path fill="url(#SVGID_4_)" d="M251.1,159.7h-47.3c-2.8,0-5-2.2-5-5v-47.3c0-2.8,2.2-5,5-5h47.3c2.8,0,5,2.2,5,5v47.3
+	C256.1,157.4,253.9,159.7,251.1,159.7z"/>
+<text transform="matrix(1 0 0 1 27.5781 133.0528)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="8">AlamoFire</text>
+<text transform="matrix(1 0 0 1 118.3745 132.5877)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="8">SwiftJSON</text>
+<text transform="matrix(1 0 0 1 213.5136 133.2209)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="8">Element</text>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="166.2388" y1="16.455" x2="106.3778" y2="76.316">
+	<stop  offset="0" style="stop-color:#0BD3A4"/>
+	<stop  offset="1" style="stop-color:#14C8D5"/>
+</linearGradient>
+<path fill="url(#SVGID_5_)" d="M160.6,74.1h-47c-2.8,0-5-2.2-5-5v-47c0-2.8,2.2-5,5-5h47c2.8,0,5,2.2,5,5v47
+	C165.6,71.8,163.4,74.1,160.6,74.1z"/>
+<text transform="matrix(1 0 0 1 115.0336 47.9958)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="8">HackerNews</text>
+<text transform="matrix(1 0 0 1 211.3775 222.6533)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="8">swift-utils</text>
+<g>
+	<g>
+		<g>
+			<path fill="#202020" d="M44.5,92.5c0,0,0-23,0-46v-0.9v-0.2c0,0,0-0.1,0-0.1h0.1h0.5h2c1.4,0,2.9,0,4.3,0c2.8,0,5.6,0,8.3,0
+				c5.4,0,10.4,0,14.7,0c6.5,0,10.8,0,10.8,0V47l0.2-0.1l3.2-1.8l-3.2-1.8l-0.2-0.1v1.7c0,0-4.3,0-10.8,0c-4.3,0-9.3,0-14.7,0
+				c-2.7,0-5.5,0-8.3,0c-1.4,0-2.8,0-4.3,0h-2.3h-0.6H44c0,0,0,0.1,0,0.1v0.3v1.2c0,23,0,46.1,0,46.1H44.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path fill="#202020" d="M228.2,91.5c0,0,0-22.3,0-44.5v-0.6v-0.3v-0.1c0,0,0-0.1,0-0.1h-0.1H227h-2.2c-1.4,0-2.8,0-4.1,0
+				c-2.7,0-5.4,0-8,0c-5.2,0-10.1,0-14.2,0c-6.3,0-10.5,0-10.5,0v-1.7l-0.2,0.1l-3.2,1.9l3.2,1.9l0.2,0.1v-1.7c0,0,4.2,0,10.5,0
+				c4.2,0,9,0,14.2,0c2.6,0,5.3,0,8,0c1.4,0,2.7,0,4.1,0h2h0.9h0.1c0,0,0,0,0,0.1v0.1v0.2v0.5c0,22.1,0,44.3,0,44.3H228.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<polygon fill="#202020" points="227.7,179.8 227.7,171.9 229.4,171.9 227.4,168.5 225.5,171.9 227.2,171.9 227.2,179.8 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<polygon fill="#202020" points="137.4,92.3 137.4,86.4 139.1,86.4 137.1,83 135.1,86.4 136.9,86.4 136.9,92.3 			"/>
+		</g>
+	</g>
+</g>
+</svg>
