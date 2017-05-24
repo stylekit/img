@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<g id="bg">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="60" y1="120" x2="60" y2="-1.338776e-09">
+		<stop  offset="0" style="stop-color:#FF5E3A"/>
+		<stop  offset="1" style="stop-color:#FF2A68"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M89.8,0H30.2C13.6,0,0,13.6,0,30.2v59.7C0,106.4,13.6,120,30.2,120h59.7c16.6,0,30.2-13.6,30.2-30.2
+		V30.2C120,13.6,106.4,0,89.8,0z"/>
+</g>
+<g id="guides">
+</g>
+<g id="Layer_3">
+	<text transform="matrix(1 0 0 1 21.4835 68.9942)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="32.0622">JSON</text>
+</g>
+</svg>
