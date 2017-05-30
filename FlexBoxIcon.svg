@@ -14,11 +14,10 @@
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  overflow="visible"/>
 		</clipPath>
-		<polygon clip-path="url(#SVGID_2_)" fill="#F82251" points="80,59.5 100,59.5 120,59.5 120,119.5 100,119.5 80,119.5 60,119.5 
-			60,59.5 		"/>
-		<rect x="0" y="59.5" clip-path="url(#SVGID_2_)" fill="#32E3E5" width="60.6" height="60.5"/>
-		<polygon clip-path="url(#SVGID_2_)" fill="#38FDA3" points="30,59.5 30,59.5 60,59.5 60,-0.5 30,-0.5 30,-0.5 0,-0.5 0,59.5 		"/>
-		<rect x="60" y="-0.5" clip-path="url(#SVGID_2_)" fill="#FDD752" width="60" height="60"/>
+		<polygon clip-path="url(#SVGID_2_)" fill="#F82251" points="80,60 100,60 120,60 120,120 100,120 80,120 60,120 60,60 		"/>
+		<rect x="0" y="60" clip-path="url(#SVGID_2_)" fill="#32E3E5" width="60" height="60"/>
+		<polygon clip-path="url(#SVGID_2_)" fill="#38FDA3" points="30,60 30,60 60,60 60,0 30,0 30,0 0,0 0,60 		"/>
+		<rect x="60" y="0" clip-path="url(#SVGID_2_)" fill="#FDD752" width="60" height="60"/>
 	</g>
 </g>
 <g id="guides">
