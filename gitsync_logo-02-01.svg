@@ -4,15 +4,15 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
 <g id="bg">
-	<path fill="#EAEAEA" d="M89.8,0H30.2C13.6,0,0,13.6,0,30.2v59.7C0,106.4,13.6,120,30.2,120h59.7c16.6,0,30.2-13.6,30.2-30.2V30.2
+	<path fill="#F2F2F2" d="M89.8,0H30.2C13.6,0,0,13.6,0,30.2v59.7C0,106.4,13.6,120,30.2,120h59.7c16.6,0,30.2-13.6,30.2-30.2V30.2
 		C120,13.6,106.4,0,89.8,0z"/>
 </g>
 <g id="guides">
 </g>
 <g id="Layer_3">
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="59.5" y1="13" x2="59.5" y2="96.3333">
-		<stop  offset="0" style="stop-color:#55F3FF"/>
-		<stop  offset="1" style="stop-color:#0084E9"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.1667" y1="33.1667" x2="92.3479" y2="93.3479">
+		<stop  offset="0" style="stop-color:#C0EBFF"/>
+		<stop  offset="1" style="stop-color:#B8E2A8"/>
 	</linearGradient>
 	<path fill="url(#SVGID_1_)" d="M59.5,17.3c-23.8,0-43.2,19.3-43.2,43.2c0,23.8,19.3,43.2,43.2,43.2s43.2-19.3,43.2-43.2
 		C102.7,36.7,83.3,17.3,59.5,17.3z M59.5,90.3C43,90.3,29.7,77,29.7,60.5S43,30.7,59.5,30.7S89.3,44,89.3,60.5S76,90.3,59.5,90.3z"
