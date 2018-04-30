@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "highlights": [
+        {
+            "name": "Frenemies",
+            "description": "Dette er highlights i fra Frenemies",
+            "episodes": [
+                { "name": "Episode 1", "storyName": "Frenemies S01E01", "thumbnail": "http://image.gobitech.no/image123.jpg"},
+                { "name": "Episode 2", "storyName": "Frenemies S01E02", "thumbnail": "http://image.gobitech.no/image123.jpg"}
+            ]
+        },
+        {
+            "name": "TIX TV",
+            "description": "Dette er highlights i fra TIX TV",
+            "episodes": [
+                { "name": "Episode 1", "storyName": "TIX TV S01E01", "thumbnail": "http://image.gobitech.no/image123.jpg"},
+                { "name": "Episode 2", "storyName": "TIX TV S01E02", "thumbnail": "http://image.gobitech.no/image123.jpg"}
+            ]
+        }
+    ]
+}
