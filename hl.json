@@ -1,21 +1,115 @@
 {
-    "status": "success",
-    "highlights": [
-        {
-            "name": "Frenemies",
-            "description": "Dette er highlights i fra Frenemies",
-            "episodes": [
-                { "name": "Episode 1", "storyName": "Frenemies S01E01", "thumbnail": "http://image.gobitech.no/image123.jpg"},
-                { "name": "Episode 2", "storyName": "Frenemies S01E02", "thumbnail": "http://image.gobitech.no/image123.jpg"}
-            ]
-        },
-        {
-            "name": "TIX TV",
-            "description": "Dette er highlights i fra TIX TV",
-            "episodes": [
-                { "name": "Episode 1", "storyName": "TIX TV S01E01", "thumbnail": "http://image.gobitech.no/image123.jpg"},
-                { "name": "Episode 2", "storyName": "TIX TV S01E02", "thumbnail": "http://image.gobitech.no/image123.jpg"}
-            ]
-        }
-    ]
+   "status": "success",
+   "highlights": [
+      {
+         "name": "Hunger Games S1",
+         "description": "Sesong 1 av Hunger Games",
+         "episodes": [
+            {
+               "name": "HG Intro",
+               "storyName": "HG Intro",
+               "thumbnail": "http://eu1media.gobitech.no/image1503314630Y2VlZWZport.jpg"
+            },
+            {
+               "name": "HG Episode 1",
+               "storyName": "HG Episode 1",
+               "thumbnail": "http://eu1media.gobitech.no/image1503349079ZGFmZDAport.jpg"
+            },
+            {
+               "name": "HG Episode 2",
+               "storyName": "HG Episode 2",
+               "thumbnail": "http://eu1media.gobitech.no/image1503475935Nzg1NDEport.jpg"
+            },
+            {
+               "name": "HG Episode 3",
+               "storyName": "HG Episode 3",
+               "thumbnail": "http://eu1media.gobitech.no/image1503568080OWEzZmFport.jpg"
+            },
+            {
+               "name": "HG Episode 4",
+               "storyName": "HG Episode 4",
+               "thumbnail": "http://eu1media.gobitech.no/image1503655727ZDA5MDYport.jpg"
+            },
+            {
+               "name": "HG Episode 5",
+               "storyName": "HG Episode 5",
+               "thumbnail": "http://eu1media.gobitech.no/image1503740283NjYzM2Nport.jpg"
+            },
+            {
+               "name": "HG Episode 6",
+               "storyName": "HG Episode 6",
+               "thumbnail": "http://eu1media.gobitech.no/image1503851151NGYwMDdport.jpg"
+            },
+            {
+               "name": "HG Episode 7",
+               "storyName": "HG Episode 7",
+               "thumbnail": "http://eu1media.gobitech.no/image1503994191NGIyMjA.jpg"
+            },
+            {
+               "name": "HG Episode 8",
+               "storyName": "HG Episode 8",
+               "thumbnail": "http://eu1media.gobitech.no/image1504084715YWY4NWIport.jpg"
+            },
+            {
+               "name": "HG Episode 9",
+               "storyName": "HG Episode 9",
+               "thumbnail": "http://eu1media.gobitech.no/image1507127885OTM0MTZport.jpg"
+            }
+         ]
+      },
+      {
+         "name": "Hopen & Petertime",
+         "description": "Hopegutt og Itspetertime på nye eventyr",
+         "episodes": [
+            {
+               "name": "H&P i Strømstad",
+               "storyName": "H&P i Strømstad",
+               "thumbnail": "http://eu1media.gobitech.no/image1517843925M2E1Mzgport.jpg"
+            },
+            {
+               "name": "Hopen i Riga",
+               "storyName": "Hopen i Riga",
+               "thumbnail": "http://eu1media.gobitech.no/image1511524599ZWMyYzgport.jpg"
+            }
+         ]
+      },
+      {
+         "name": "FRENEMIES",
+         "description": "Keep your friends close, and your enemies closer",
+         "episodes": [
+            {
+               "name": "FRENEMIES på date",
+               "storyName": "FRENEMIES på date",
+               "thumbnail": "http://eu1media.gobitech.no/image1511475051YWY4MWFport.jpg"
+            }
+         ]
+      },
+      {
+         "name": "Hva er detta?",
+         "description": "Klarer du å se hva detta er?",
+         "episodes": [
+            {
+               "name": "HeD Episode 1",
+               "storyName": "HeD Episode 1",
+               "thumbnail": "http://eu1media.gobitech.no/image1508933612ZDM1OTgself.jpg"
+            },
+            {
+               "name": "HeD Episode 2",
+               "storyName": "HeD Episode 2",
+               "thumbnail": "http://eu1media.gobitech.no/image1511722784N2M1OTEself.jpg"
+            }
+         ]
+      },
+      {
+         "name": "John Melon",
+         "description": "When life gives you melons, you're probably dyslexic",
+         "episodes": [
+            {
+               "name": "JM Episode 1",
+               "storyName": "JM Episode 1",
+               "thumbnail": "http://eu1media.gobitech.no/image1477343262NjU0NDQport.jpg"
+            }
+         ]
+      }
+   ]
 }
