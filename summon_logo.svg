@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="234px" height="234px" viewBox="0 0 234 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Custom Preset 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval-Copy-6" fill="#0076FF" cx="116.87472" cy="117" r="116.611261"></circle>
+            <g id="Group-4" transform="translate(45.000000, 45.000000)" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round">
+                <path d="M50.3693803,96.9415649 L38.6998551,108.61109" id="Line-Copy-2"></path>
+                <path d="M106.450686,37.7267913 L94.3512767,49.8262006" id="Line-Copy-3"></path>
+                <path d="M107.830433,96.4075752 L97.3778268,106.860182" id="Line-Copy-2" transform="translate(102.780409, 101.632472) rotate(-90.000000) translate(-102.780409, -101.632472) "></path>
+                <path d="M50.5554495,39.1093508 L37.3247291,52.3400712" id="Line-Copy-3" transform="translate(43.927071, 45.912602) rotate(-90.000000) translate(-43.927071, -45.912602) "></path>
+                <path d="M21.0769125,65.7676783 L3.88354661,82.9610442" id="Line-Copy-2" transform="translate(12.480230, 74.364361) rotate(-315.000000) translate(-12.480230, -74.364361) "></path>
+                <path d="M140.894511,62.1428619 L123.067772,79.9696001" id="Line-Copy-3" transform="translate(132.012985, 71.282037) rotate(-315.000000) translate(-132.012985, -71.282037) "></path>
+                <path d="M81.7940394,126.15617 L66.3936281,141.556582" id="Line-Copy-2" transform="translate(74.353555, 133.854304) rotate(-405.000000) translate(-74.353555, -133.854304) "></path>
+                <path d="M80.8550075,4.46602435 L61.3614452,23.9595866" id="Line-Copy-3" transform="translate(71.089045, 14.489636) rotate(-405.000000) translate(-71.089045, -14.489636) "></path>
+            </g>
+        </g>
+        <g id="Custom-Preset-6"></g>
+    </g>
+</svg>
