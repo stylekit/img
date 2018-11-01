@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="180px" viewBox="0 0 580 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <rect id="Rectangle-2" fill="#F2F2F2" x="-1" y="0" width="580" height="180"></rect>
+            <g id="spatial_logo-sketch" transform="translate(39.000000, 40.000000)" fill-rule="nonzero" fill="#000000">
+                <g id="Group">
+                    <polygon id="Rectangle" points="0 20 20 20 20 0 0 0"></polygon>
+                    <polygon id="Rectangle-Copy-3" points="20 60 40 60 40 40 20 40"></polygon>
+                    <polygon id="Rectangle-Copy-5" points="40 100 60 100 60 80 40 80"></polygon>
+                    <polygon id="Rectangle-Copy" points="40 20 60 20 60 0"></polygon>
+                    <polygon id="Rectangle-Copy-4" points="40 80 60 80 60 60"></polygon>
+                    <polygon id="Rectangle-Copy-2" points="0 60 20 60 20 40"></polygon>
+                    <polygon id="Rectangle-Copy-6" points="0 100 20 100 20 80"></polygon>
+                    <path d="M30,20 C35.52,20 40,15.52 40,10 C40,4.48 35.52,0 30,0 C24.48,0 20,4.48 20,10 C20,15.52 24.48,20 30,20 Z" id="Oval"></path>
+                    <path d="M50,60 C55.52,60 60,55.52 60,50 C60,44.48 55.52,40 50,40 C44.48,40 40,44.48 40,50 C40,55.52 44.48,60 50,60 Z" id="Oval-Copy-2"></path>
+                    <path d="M30,100 C35.52,100 40,95.52 40,90 C40,84.48 35.52,80 30,80 C24.48,80 20,84.48 20,90 C20,95.52 24.48,100 30,100 Z" id="Oval-Copy-3"></path>
+                    <path d="M10,40 C15.52,40 20,35.52 20,30 C20,24.48 15.52,20 10,20 C4.48,20 0,24.48 0,30 C0,35.52 4.48,40 10,40 Z" id="Oval-Copy"></path>
+                    <polygon id="Rectangle" points="80 20 100 20 100 0 80 0"></polygon>
+                    <polygon id="Rectangle-Copy-3" points="100 60 120 60 120 40 100 40"></polygon>
+                    <polygon id="Rectangle-Copy-7" points="120 40 140 40 140 20 120 20"></polygon>
+                    <polygon id="Rectangle-Copy-8" points="80 80 100 80 100 60 80 60"></polygon>
+                    <polygon id="Rectangle-Copy" points="120 20 140 20 140 0"></polygon>
+                    <polygon id="Rectangle-Copy-2" points="80 60 100 60 100 40"></polygon>
+                    <path d="M110,20 C115.52,20 120,15.52 120,10 C120,4.48 115.52,0 110,0 C104.48,0 100,4.48 100,10 C100,15.52 104.48,20 110,20 Z" id="Oval"></path>
+                    <path d="M130,60 C135.52,60 140,55.52 140,50 C140,44.48 135.52,40 130,40 C124.48,40 120,44.48 120,50 C120,55.52 124.48,60 130,60 Z" id="Oval-Copy-2"></path>
+                    <path d="M90,100 C95.52,100 100,95.52 100,90 C100,84.48 95.52,80 90,80 C84.48,80 80,84.48 80,90 C80,95.52 84.48,100 90,100 Z" id="Oval-Copy-3"></path>
+                    <path d="M90,40 C95.52,40 100,35.52 100,30 C100,24.48 95.52,20 90,20 C84.48,20 80,24.48 80,30 C80,35.52 84.48,40 90,40 Z" id="Oval-Copy"></path>
+                    <polygon id="Rectangle" points="160 20 180 20 180 0 160 0"></polygon>
+                    <polygon id="Rectangle-Copy-3" points="180 60 200 60 200 40 180 40"></polygon>
+                    <polygon id="Rectangle-Copy-10" points="200 100 220 100 220 80 200 80"></polygon>
+                    <polygon id="Rectangle-Copy-7" points="200 40 220 40 220 20 200 20"></polygon>
+                    <polygon id="Rectangle-Copy-8" points="160 80 180 80 180 60 160 60"></polygon>
+                    <polygon id="Rectangle-Copy" points="200 20 220 20 220 0"></polygon>
+                    <polygon id="Rectangle-Copy-2" points="160 60 180 60 180 40"></polygon>
+                    <polygon id="Rectangle-Copy-9" points="200 80 220 80 220 60"></polygon>
+                    <path d="M190,20 C195.52,20 200,15.52 200,10 C200,4.48 195.52,0 190,0 C184.48,0 180,4.48 180,10 C180,15.52 184.48,20 190,20 Z" id="Oval"></path>
+                    <path d="M210,60 C215.52,60 220,55.52 220,50 C220,44.48 215.52,40 210,40 C204.48,40 200,44.48 200,50 C200,55.52 204.48,60 210,60 Z" id="Oval-Copy-2"></path>
+                    <path d="M170,100 C175.52,100 180,95.52 180,90 C180,84.48 175.52,80 170,80 C164.48,80 160,84.48 160,90 C160,95.52 164.48,100 170,100 Z" id="Oval-Copy-3"></path>
+                    <path d="M170,40 C175.52,40 180,35.52 180,30 C180,24.48 175.52,20 170,20 C164.48,20 160,24.48 160,30 C160,35.52 164.48,40 170,40 Z" id="Oval-Copy"></path>
+                    <polygon id="Rectangle" points="360 20 380 20 380 0 360 0"></polygon>
+                    <polygon id="Rectangle-Copy-3" points="380 60 400 60 400 40 380 40"></polygon>
+                    <polygon id="Rectangle-Copy-10" points="400 100 420 100 420 80 400 80"></polygon>
+                    <polygon id="Rectangle-Copy-7" points="400 40 420 40 420 20 400 20"></polygon>
+                    <polygon id="Rectangle-Copy-8" points="360 80 380 80 380 60 360 60"></polygon>
+                    <polygon id="Rectangle-Copy" points="400 20 420 20 420 0"></polygon>
+                    <polygon id="Rectangle-Copy-2" points="360 60 380 60 380 40"></polygon>
+                    <polygon id="Rectangle-Copy-9" points="400 80 420 80 420 60"></polygon>
+                    <path d="M390,20 C395.52,20 400,15.52 400,10 C400,4.48 395.52,0 390,0 C384.48,0 380,4.48 380,10 C380,15.52 384.48,20 390,20 Z" id="Oval"></path>
+                    <path d="M410,60 C415.52,60 420,55.52 420,50 C420,44.48 415.52,40 410,40 C404.48,40 400,44.48 400,50 C400,55.52 404.48,60 410,60 Z" id="Oval-Copy-2"></path>
+                    <path d="M370,100 C375.52,100 380,95.52 380,90 C380,84.48 375.52,80 370,80 C364.48,80 360,84.48 360,90 C360,95.52 364.48,100 370,100 Z" id="Oval-Copy-3"></path>
+                    <path d="M370,40 C375.52,40 380,35.52 380,30 C380,24.48 375.52,20 370,20 C364.48,20 360,24.48 360,30 C360,35.52 364.48,40 370,40 Z" id="Oval-Copy"></path>
+                    <polygon id="Rectangle" points="240 20 260 20 260 0 240 0"></polygon>
+                    <polygon id="Rectangle-Copy-3" points="260 60 280 60 280 40 260 40"></polygon>
+                    <polygon id="Rectangle-Copy" points="280 20 300 20 300 0"></polygon>
+                    <polygon id="Rectangle-Copy-9" points="260 100 280 100 280 80"></polygon>
+                    <polygon id="Rectangle-Copy-11" points="260 40 280 40 280 20"></polygon>
+                    <path d="M270,20 C275.52,20 280,15.52 280,10 C280,4.48 275.52,0 270,0 C264.48,0 260,4.48 260,10 C260,15.52 264.48,20 270,20 Z" id="Oval"></path>
+                    <path d="M270,80 C275.52,80 280,75.52 280,70 C280,64.48 275.52,60 270,60 C264.48,60 260,64.48 260,70 C260,75.52 264.48,80 270,80 Z" id="Oval-Copy-3"></path>
+                    <polygon id="Rectangle" points="480 80 460 80 460 100 480 100"></polygon>
+                    <polygon id="Rectangle-Copy-3" points="460 40 440 40 440 60 460 60"></polygon>
+                    <polygon id="Rectangle-Copy" points="500 80 480 80 480 100"></polygon>
+                    <polygon id="Rectangle-Copy-9" points="460 0 440 0 440 20"></polygon>
+                    <polygon id="Rectangle-Copy-11" points="460 60 440 60 440 80"></polygon>
+                    <path d="M450,80 C444.48,80 440,84.48 440,90 C440,95.52 444.48,100 450,100 C455.52,100 460,95.52 460,90 C460,84.48 455.52,80 450,80 Z" id="Oval"></path>
+                    <path d="M450,20 C444.48,20 440,24.48 440,30 C440,35.52 444.48,40 450,40 C455.52,40 460,35.52 460,30 C460,24.48 455.52,20 450,20 Z" id="Oval-Copy-3"></path>
+                    <polygon id="Rectangle-Copy-3" points="340 40 320 40 320 60 340 60"></polygon>
+                    <polygon id="Rectangle-Copy-9" points="340 0 320 0 320 20"></polygon>
+                    <polygon id="Rectangle-Copy-11" points="340 60 320 60 320 80"></polygon>
+                    <path d="M330,80 C324.48,80 320,84.48 320,90 C320,95.52 324.48,100 330,100 C335.52,100 340,95.52 340,90 C340,84.48 335.52,80 330,80 Z" id="Oval"></path>
+                    <path d="M330,20 C324.48,20 320,24.48 320,30 C320,35.52 324.48,40 330,40 C335.52,40 340,35.52 340,30 C340,24.48 335.52,20 330,20 Z" id="Oval-Copy-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
