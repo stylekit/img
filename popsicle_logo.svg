@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="98.8161671%" x2="50%" y2="6.07153217e-15%" id="linearGradient-1">
+            <stop stop-color="#DA4EC6" offset="0%"></stop>
+            <stop stop-color="#15CECE" offset="98.1026786%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FFDC95" offset="0%"></stop>
+            <stop stop-color="#FFB65C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#15CECE" offset="0%"></stop>
+            <stop stop-color="#DA4EC6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.6916454%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.45142663" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-2">
+                <rect id="Rectangle-3" fill="url(#linearGradient-1)" x="0" y="0" width="600" height="600" rx="100"></rect>
+                <g id="Group" transform="translate(200.000000, 120.000000)">
+                    <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="80" y="280" width="40" height="120" rx="20"></rect>
+                    <path d="M200,260 L200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 1.14734481e-142,44.771525 2.20519647e-286,100 L0,260 C2.23265109e-14,282.09139 17.90861,300 40,300 L160,300 C182.09139,300 200,282.09139 200,260 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                    <path d="M100,10 C50.2943725,10 10,50.2943725 10,100 L10,260 C10,265.522847 14.4771525,270 20,270 C25.5228475,270 30,265.522847 30,260 L30,100 C30,61.3400675 61.3400675,30 100,30 C105.522847,30 110,25.5228475 110,20 C110,14.4771525 105.522847,10 100,10 Z" id="Combined-Shape" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
