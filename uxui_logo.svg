@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="150px" viewBox="0 0 420 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M99.5,0 L104.5,0 L104.5,100 C104.5,128.994949 80.9949494,152.5 52,152.5 C23.0050506,152.5 -0.5,128.994949 -0.5,100 L-0.5,0 L4.5,0 L4.5,100 C4.5,126.233526 25.7664744,147.5 52,147.5 C78.2335256,147.5 99.5,126.233526 99.5,100 L99.5,0 Z" id="Path" fill="#44D7B6" fill-rule="nonzero"></path>
+        <path d="M360.509252,0 L365.509252,0 L365.509252,100 C365.509252,128.994949 342.004201,152.5 313.009252,152.5 C284.014303,152.5 260.509252,128.994949 260.509252,100 L260.509252,0 L265.509252,0 L265.509252,100 C265.509252,126.233526 286.775727,147.5 313.009252,147.5 C339.242778,147.5 360.509252,126.233526 360.509252,100 L360.509252,0 Z" id="Path-Copy" fill="#44D7B6" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#44D7B6" fill-rule="nonzero" points="182.504626 70.4930609 229.5 0 235.509252 0 185.509252 75 235.509252 150 229.5 150 182.504626 79.5069391 135.509252 150 129.5 150 179.5 75 129.5 0 135.509252 0"></polygon>
+        <polygon id="Line-3" fill="#44D7B6" fill-rule="nonzero" points="420.509252 150 415.509252 150 415.509252 0 420.509252 0"></polygon>
+    </g>
+</svg>
